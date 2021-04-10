@@ -17,7 +17,7 @@ The following Colabs implement loading relevant data from Met.ie and smartgridda
 | 2_IslandElectricityData_ver2.ipynb | Load smartgriddashboard.eirgrid.com electricity generation data for the island of Ireland for the last 4 years |
 | 2b_IslandElectricityMissingData.ipynb | Handle missing data in Eirgrid Electricity data |
 | 2c_IrelandElectricityDataQualityCheck.ipynb | Compare SEAI monthly summary and Eirgrid data for the Republic of Ireland to check data quality | 
-| 3_Krystian's_EDA_SharedIslandElectricityEDAipynb.ipynb | EDA |
+| 3_SharedIslandElectricityEDA.ipynb | EDA |
 | 4_IslandElectricityANNModel_v2.ipynb | Neural Netwok models with transformed features | 
 | 4_IslandElectricityRandomForestModel.ipynb | Random Forest model with raw features | 
 | 4_IslandElectricityRandomForestModel_transformedTime.ipynb | Random Forest model with transformed features |
