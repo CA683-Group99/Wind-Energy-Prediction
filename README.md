@@ -22,6 +22,7 @@ The following Colabs implement loading relevant data from Met.ie and smartgridda
 | 4_IslandElectricityRandomForestModel.ipynb | Random Forest model with raw features | 
 | 4_IslandElectricityRandomForestModel_transformedTime.ipynb | Random Forest model with transformed features |
 | 4_IslandElectricity_autoreg.ipynb | AutoReg prediction model | 
+| 4_IslandElectricity_LSTM_Model.ipynb | LSTM Based on TensorFlow Time Series tutorial |
 | Feature Vector - Dictionary - Feature.csv | Feature vector doc for all loaded features |
 
 
