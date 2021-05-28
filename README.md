@@ -26,5 +26,9 @@ The following Colabs implement loading relevant data from Met.ie and smartgridda
 | Feature Vector - Dictionary - Feature.csv | Feature vector doc for all loaded features |
 
 
+License
+- Met Éirean data: Copyright Met Éireann, Source www.met.ie , Licence Statement: This data is published under a Creative Commons Attribution 4.0 International (CC BY 4.0).
+- EirGrid Group Data: Supported by EirGrid Group Data, Source: www.smartgriddashboard.com , Open Data Licence.
+- The notebooks, and other documents are released under a CC BY-NC-SA 4.0 license. 
 
 
