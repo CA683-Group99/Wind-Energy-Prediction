@@ -9,6 +9,8 @@ The goal will be to present predictions every day at 21:00, if and when (what Ho
 - Compare to predicted demand as per Eirgrid Smartgriddashboard.eirgrid.com 
 - Highlighlight hours where Wind generations is higher than 70% demand: manually set up battery charging for those hours!
 
+Detailed explanations of the project can be found in https://towardsdatascience.com/predicting-excess-wind-electricity-in-ireland-machine-learning-against-climate-change-part-1-d042894026a6 
+
 The following Colabs implement loading relevant data from Met.ie and smartgriddashboard.eirgrid.com , handle missing data and outliers, merge the data into 1 feature vector, try a few different Machine Learning with relevant feature engineering options, and forecast for the next day!
 
 | File | Purpose |
